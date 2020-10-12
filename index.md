@@ -31,9 +31,9 @@
 **Desktop Support Specialist – University of Pune, India				    &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;             Apr 2013	–Nov 2013**
 *	Provided level II and III helpdesk support to 700+ faculty members, resolved 25-30 technical issues/week. Closed 95% of the trouble tickets without escalation.
 *	Documented installation/maintenance procedures and problem-solving processes for proprietary hardware and software.
-## EDUCATION<br/>
 
-|                 Title										 |            GPA     |             University                   |        Year        |
+## EDUCATION
+|                 Title										          |         GPA        |             University                   |        Year        |
 |------------------------------------------|--------------------|------------------------------------------|--------------------|
 |MS in Information Systems & Analytics     |        3.76        |Iowa State University                     |        Aug 2020    |
 |Bachelor’s in Information Technology      |        3.51        |University of Pune, India                 |        Jul 2014    |
