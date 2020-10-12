@@ -1,2 +1,3 @@
 # me
-Personal Website
+Welcome!
+Thank you for visiting my website.
