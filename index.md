@@ -33,6 +33,7 @@
 *	Documented installation/maintenance procedures and problem-solving processes for proprietary hardware and software.
 
 ## EDUCATION <br/>
+
 |                 Title										          |         GPA        |             University                   |        Year        |
 |------------------------------------------|--------------------|------------------------------------------|--------------------|
 |MS in Information Systems & Analytics     |        3.76        |Iowa State University                     |        Aug 2020    |
