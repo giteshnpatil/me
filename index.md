@@ -1,38 +1,37 @@
-**SUMMARY**
+## SUMMARY
 
 -	6 years of combined experience in network and systems administration, database management and programming.
 -	Experience with log collection and reporting, incidence response, vulnerability scanning, Malware Analysis, IDS, IPS, IAM, forensics, IT auditing, and regulatory compliance framework.
 -	Self-starter, technologically adept, and easy to train. 
 
-**WORK  EXPERIENCE**
+## WORK  EXPERIENCE
 
-***Risk Analyst Intern – FHLB of Des Moines  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;            Aug 2019 –Jun 2020***
+**Risk Analyst Intern – FHLB of Des Moines  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;            Aug 2019 –Jun 2020**
 * Automated 35+ hours of work/month through 2 monthly & 3 daily reports optimizing EUCs and Qlik applications.
 *	Created and managed financial KPIs to assist the technical/non-technical audiences in their decision-making on credit analysis.  
 
-***Network and System admin –  Iowa State University     &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;             	         Jan 2019 – Aug 2019***
+**Network and System admin –  Iowa State University     &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;             	         Jan 2019 – Aug 2019**
 *	Performed diagnostics and troubleshooting of system and network issues, documented repair tickets/resolutions.
 *	Supported, maintained, and upgraded lab of 180 workstation’s operating systems, patching packages, and hardware upgrades.
 *	Conducted Active Directory (AD) operations such as modifying permissions for accounts, groups, and distribution lists; and added, removed, and move accounts and workstations.
 
-***Teaching assistant (SQL and MS Excel)–  Iowa State University   &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;            Aug 2018 – Dec 2018***
+**Teaching assistant (SQL and MS Excel)–  Iowa State University   &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;            Aug 2018 – Dec 2018**
 *	Assisted class of 120 in writing complex SQL queries using Joins, Views, Subqueries, Stored Procedures for analytics projects.
 *	Taught MS Excel concepts– VLOOKUP, Pivot table, Power Query, Macros, Validation, and VBA to a class of freshmen.
 
-***Senior Systems Engineer –  Infosys Limited					       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;                Mar 2017–July 2018***
+**Senior Systems Engineer –  Infosys Limited					       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;                Mar 2017–July 2018**
 *	Developed and validated ERP applications following Secure Software Development used by 80,000 employees, prepared a detailed documentation for future support and extension.
 *	Increased overall performance of the project by analyzing 200+ legacy web applications for optimization and efficient code.
 *	Worked with GRC(Government, Risk, and Compliance) analyst to document detailed procedures for State Government Office.
 
-***Systems Engineer –  Infosys Limited				 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;		                                Jan 2015–Feb 2017***
+**Systems Engineer –  Infosys Limited				 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;		                                Jan 2015–Feb 2017**
 *	Reviewed security logs in 24/7 environment to ensure compliance with policies and procedures to identify potential anomalies.
 *	Participated in weekly IT meetings to provide guidance and support on enterprise security architecture.
 
-***Desktop Support Specialist – University of Pune, India				    &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;             Apr 2013	–Nov 2013***
+**Desktop Support Specialist – University of Pune, India				    &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;             Apr 2013	–Nov 2013**
 *	Provided level II and III helpdesk support to 700+ faculty members, resolved 25-30 technical issues/week. Closed 95% of the trouble tickets without escalation.
 *	Documented installation/maintenance procedures and problem-solving processes for proprietary hardware and software.
-
-**EDUCATION**<br/>
+## EDUCATION<br/>
 
 |                 Title										 |            GPA     |             University                   |        Year        |
 |------------------------------------------|--------------------|------------------------------------------|--------------------|
@@ -40,7 +39,7 @@
 |Bachelor’s in Information Technology      |        3.51        |University of Pune, India                 |        Jul 2014    |
 |Diploma in Information Technology         |        3.87        |University of Mumbai, India               |        Jul 2011    |
  
-**TOOLS AND TECHNOLOGIES**<br/>
+## TOOLS AND TECHNOLOGIES<br/>
 
 * Programming languages: Python, C, C++
 * Web Development: JavaScript, CSS, SQL, HTML5
@@ -48,7 +47,7 @@
 * Network Ops: Firewall Config, TCP/IP, VPN, LDAP, DNS
 * Regulations: Understands PCI DSS, SOX, GDPR, and ISO 2701
 
-**PROJECTS**
+## PROJECTS
 
 ***Web Application Penetration Testing***
 *	Created a controlled environment with Top 10 OWASP web apps anomalies like PII exposure and broken access control. 
@@ -62,55 +61,13 @@
 *	Analyzed approx. Million patients’ records for feature insights, financial projections, and risk assessment using Tableau.
 *	Predicted patients’ no-show rate on appointment booking using Python Scikit; obtained accuracy of about 71%.
 
-**CERTIFICATIONS / TRAININGS**
+## CERTIFICATIONS / TRAININGS
 *	Certificates – CompTIA Security+,  AWS Cloud Practitioner, CyberArk (Level -Trustee)
 *	Training –  Azure Active Directory, SailPoint IAM Manager, Crisis and Risk Management, SQL Server for Analysis
 
 
+## CONTACT DETAILS
 
-
-
-
-
-
-
-
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/giteshnpatil/me/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/giteshnpatil/me/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Email](giteshpatil54@gmail.com) <br/>
+[LinkedIn](https://www.linkedin.com/in/giteshpatil)<br/>
+[Twitter](https://twitter.com/mrse7enpatil)<br/>
